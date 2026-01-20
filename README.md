@@ -2,11 +2,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabhi09&show_icons=true&theme=tokyonight)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi09&layout=compact&theme=tokyonight)
-
-
-
 I’m a **Marketing and Technology student** with a strong interest in how digital tools, data, and software can be used to improve everyday systems and business decision-making. I enjoy learning through hands-on experience and prefer building projects that help me understand both the technical and strategic side of digital products.
 
 My focus is on developing a solid foundation in **Python, APIs, and application logic**, while continuously improving how I structure and organise my code. I’m particularly interested in automation, productivity tools, and data-driven solutions.
@@ -14,6 +9,8 @@ My focus is on developing a solid foundation in **Python, APIs, and application 
 ---
 
 ### What I’m currently working on
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi09&layout=compact&theme=tokyonight)
 
 I’m actively building and refining personal projects to apply my learning in real-world scenarios.
 
