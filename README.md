@@ -22,6 +22,11 @@ I’m actively building and refining personal projects to apply my learning in r
 
 ### Skills & tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 - Python 
 - APIs  
 - GitHub & version control  
