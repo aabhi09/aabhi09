@@ -15,6 +15,8 @@ I’m actively building and refining personal projects to apply my learning in r
 - **Weather Forecasting App** — using Python and real-time APIs to fetch and display weather data.  
 - **Todo List App** — a compact task management application focused on clean logic and simplicity.  
 -   Improving backend structure, readability, and project organisation.
+
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi09&layout=compact&theme=tokyonight)
 
 ---
