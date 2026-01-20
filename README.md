@@ -1,4 +1,4 @@
-# Hey, I'm Aabhinav
+# Hey, I'm Aabhinav! :)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabhi09&show_icons=true&theme=tokyonight)
 
