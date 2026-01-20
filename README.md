@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey, I'm Aabhinav(Aabhi)
 
-I’m a **Marketing and Technology student** with a growing interest in how digital tools, data, and software can be used to improve everyday systems and decision-making. I enjoy understanding not just *how* things work, but *why* they work — especially at the intersection of business strategy and technology.
+I’m a **Marketing and Technology student** with a growing interest in how digital tools, data, and software can be used to improve everyday systems and decision-making. I enjoy understanding not just how things work, but why they work, especially at the intersection of business strategy and technology.
 
 My learning approach is very hands-on. Instead of only relying on theory, I prefer building small applications and projects that allow me to apply concepts in real time. This helps me better understand problem-solving, logical thinking, and how real-world digital products are developed from scratch.
 
