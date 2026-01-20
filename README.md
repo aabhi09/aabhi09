@@ -12,7 +12,11 @@ My focus is on developing a solid foundation in **Python, APIs, and application 
 
 I’m actively building and refining personal projects to apply my learning in real-world scenarios.
 
-- **Weather Forecasting App** — using Python and real-time APIs to fetch and display weather data.  
+- **Weather Forecasting App** — using Python and real-time APIs to fetch and display weather data.
+
+![Project Screenshot](BlueHorizon.png)
+
+ 
 - **Todo List App** — a compact task management application focused on clean logic and simplicity.  
 -   Improving backend structure, readability, and project organisation.
 
