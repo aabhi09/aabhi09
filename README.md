@@ -19,10 +19,11 @@ I’m actively building and refining personal projects to apply my learning in r
 -   Improving backend structure, readability, and project organisation.
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi09&layout=compact&theme=tokyonight)
+
 
 ![Project Screenshot](BlueHorizon.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi09&layout=compact&theme=tokyonight)
 
 ---
 
