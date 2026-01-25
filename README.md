@@ -50,5 +50,3 @@ I’m actively building and refining personal projects to apply my learning in r
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/aabhinav-sarkar-b7641b21a/
 
 ---
-
-⭐ *Always learning. Always building. Always improving.*
