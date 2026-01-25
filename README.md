@@ -43,6 +43,7 @@ I’m actively building and refining personal projects to apply my learning in r
 - Datacom – Cybersecurity Job Simulation (Forage)
 [View Certificate](https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_68ccb1737283f556d1c1f1c5_1761313150391_completion_certificate.pdf)
 
+---
 
 ### Let’s connect
 
