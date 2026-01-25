@@ -6,7 +6,7 @@ My focus is on developing a solid foundation in **Python, APIs, and application 
 
 ---
 
-### What I’m currently working on
+### What I have worked on: 
 
 I’m actively building and refining personal projects to apply my learning in real-world scenarios.
 
