@@ -10,9 +10,9 @@ My focus is on developing a solid foundation in **Python, APIs, and application 
 
 I’m actively building and refining personal projects to apply my learning in real-world scenarios.
 
-- **Weather Forecasting App(Blue Horizon)** — using Python and real-time APIs to fetch and display weather data.
+- **Weather Forecasting App(Blue Horizon)** - using Python and real-time APIs to fetch and display weather data.
  
-- **Todo List App** — a compact task management application focused on clean logic and simplicity.
+- **Todo List App** - a compact task management application focused on clean logic and simplicity.
 
 - **Stock Price Tracker** – Web app that fetches live stock data, tracks portfolios, and visualizes market performance.
   
