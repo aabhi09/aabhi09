@@ -14,8 +14,6 @@ I’m actively building and refining personal projects to apply my learning in r
  
 - **Todo List App** - a compact task management application focused on clean logic and simplicity.
 
-- **Stock Price Tracker** – Web app that fetches live stock data, tracks portfolios, and visualizes market performance.
-  
 -   Improving backend structure, readability, and project organisation.
 
 
