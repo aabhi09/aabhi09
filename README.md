@@ -25,7 +25,8 @@ I’m actively building and refining personal projects to apply my learning in r
 ### Skills & tools
 
 - Python 
-- APIs  
+- APIs
+- SQL
 - GitHub & version control  
 - VS Code  
 - Basic data visualisation
